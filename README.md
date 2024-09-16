@@ -5,7 +5,7 @@ Welcome to the Front End Developer's Manual of Style project!
 ## Overview
 
 This project is dedicated to collect Front End Developer's Manuals of Style. 
-Our aim is to create a centralized resource that provides guidelines, best practices, and standards for software development of Ellucian project.
+Our aim is to create a centralized resource that provides guidelines, best practices, and standards for software development of the project.
 
 ## Topics
 
